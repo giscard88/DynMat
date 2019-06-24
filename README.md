@@ -4,8 +4,8 @@ The source codes used for DynMat (https://doi.org/10.1016/j.neunet.2019.04.005) 
 
 In this repository, source codes used for testing 3 digits of MNIST set are provided. 
 
-1. mnist_norm.py: prepare MNIST dataset for experiments
-2. DynMat_export.py: run experiments and save results
+1. mnist_norm.py: prepares MNIST dataset for experiments
+2. DynMat_export.py: runs experiments and saves results
 3. data_analyzer.py, comp_thres.py and comp_thres4.py: examples of analysis codes
 
 ## Notes
